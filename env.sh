@@ -1,0 +1,10 @@
+export HOST_NAME='localhost'
+export DATABASE='geosmart'
+export USERNAME='postgres'
+export PASSWORD='postgres'
+export PORT_ID=5432
+export ES_URL='http://es-data-team-office.k8s.fareye.io/'
+export DB_STRING='postgresql+psycopg2://postgres:postgres@localhost:5432/geosmart'
+#CONN = None
+# CONN = None
+#RANDOM=1
